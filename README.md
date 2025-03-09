@@ -4,8 +4,8 @@ Link to CAD Design<br>
 [Fuselage](https://github.com/Arcilios/Autogyro-CAD-Design/tree/main/Fuselage)
 
 # RC Control Configuration:
-CH1 Roll LH
-CH2 Elevator RV
-CH3 Throttle LV
-CH4 Rudder RH
-CH5 Starter SW1
+CH1 Roll LH   
+CH2 Elevator RV  
+CH3 Throttle LV  
+CH4 Rudder RH  
+CH5 Starter SW1  
