@@ -1,11 +1,11 @@
 const images = [
     {
-      src: "Images/Fuselage.jpg",
+      src: "${base}/Images/Fuselage.jpg",
       caption: "Fuselage - Main Body of Autogyro",
       link: "https://github.com/Arcilios/Autogyro-CAD-Design/tree/main/Fuselage"
     },
     {
-      src: "Images/PT_Platform.jpg",
+      src: "${base}/Images/PT_Platform.jpg",
       caption: "PT Platform - Sensor Mount Platform",
       link: "https://github.com/Arcilios/Autogyro-CAD-Design/tree/main/Camera"
     }
