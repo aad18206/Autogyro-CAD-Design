@@ -5,7 +5,7 @@ const images = [
       link: "https://github.com/Arcilios/Autogyro-CAD-Design/tree/main/Fuselage"
     },
     {
-      src: "Images/PT Platform.jpg",
+      src: "Images/PT_Platform.jpg",
       caption: "PT Platform - Sensor Mount Platform",
       link: "https://github.com/Arcilios/Autogyro-CAD-Design/tree/main/Camera"
     }
